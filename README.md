@@ -1,1 +1,1 @@
-# LoanAnalysisDashboard
+The dashboard includes various charts illustrating the impact of income, credit history, loan amount, and other factors on loan approval rates. These visualizations help in identifying trends, assess risk factors, and make data-driven decisions. 
